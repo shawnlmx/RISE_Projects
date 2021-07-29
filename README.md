@@ -17,4 +17,4 @@ Based on the analytics objectives and hypothesis, answer specific business quest
 
 Generate statistical summary of data sets and perform exploratory data analysis
 
-Statistical hypothesis testing (A/Btest) between two groups of data
+Statistical hypothesis testing (A/B Test) between two groups of data
